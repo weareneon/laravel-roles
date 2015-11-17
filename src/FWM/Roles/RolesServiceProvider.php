@@ -1,6 +1,4 @@
-<?php
-
-namespace FWM\Roles;
+<?php namespace FWM\Roles;
 
 use Illuminate\Support\ServiceProvider;
 
